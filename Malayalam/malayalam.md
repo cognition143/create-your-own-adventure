@@ -14,3 +14,4 @@
 
 [ടിന്റുവും മാഷും] (../Malayalam/tintu/tintu-teacher.md)
 
+മലയാളം ശുദ്ധമായ ഒരു ഭാഷയാണ്
